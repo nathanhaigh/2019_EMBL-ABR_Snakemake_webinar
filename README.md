@@ -22,4 +22,4 @@ For the purpose of demonstrating a Snakemake workflow in reasonable time, we wil
 
 ![alt text](img/chr4A_Wx-B1_Null_region.png  "chr4A_part2:235500000-235558000")
 
-DAWN URL: [chr4A_part2:235500000-235558000](crobiad.agwine.adelaide.edu.au/dawn/jbrowse/?loc=chr4A_part2%3A235500000..235558000&tracks=IWGSC_v1.0_HC_genes%2CAlsen_snpcoverage%2CRAC875_snpcoverage%2CYitpi_snpcoverage%2CPastor_snpcoverage%2CWyalkatchem_snpcoverage%2CWestonia_snpcoverage%2CACBarrie_snpcoverage%2CVolcanii_snpcoverage%2CBaxter_snpcoverage%2CChara_snpcoverage%2CDrysdale_snpcoverage%2CH45_snpcoverage%2CXiaoyan_snpcoverage%2CKukri_snpcoverage%2CGladius_snpcoverage%2CExcalibur_snpcoverage)
+DAWN URL: [chr4A_part2:235500000-235558000](http://crobiad.agwine.adelaide.edu.au/dawn/jbrowse/?loc=chr4A_part2%3A235500000..235558000&tracks=IWGSC_v1.0_HC_genes%2CAlsen_snpcoverage%2CRAC875_snpcoverage%2CYitpi_snpcoverage%2CPastor_snpcoverage%2CWyalkatchem_snpcoverage%2CWestonia_snpcoverage%2CACBarrie_snpcoverage%2CVolcanii_snpcoverage%2CBaxter_snpcoverage%2CChara_snpcoverage%2CDrysdale_snpcoverage%2CH45_snpcoverage%2CXiaoyan_snpcoverage%2CKukri_snpcoverage%2CGladius_snpcoverage%2CExcalibur_snpcoverage)
