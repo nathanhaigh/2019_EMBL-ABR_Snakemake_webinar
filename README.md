@@ -7,8 +7,11 @@ This repository contains information for the EMBL-ABR webinar on "Snakemake: Rep
 This 1-hour webinar will take a look into Snakemake, cover the core concepts and examples required for making your first steps into reproducible Snakemake workflows. Building on this foundation, Nathan will introduce more advanced features which enable workflows to scale seamlessly to server, cluster, grid and cloud environments as well as different software execution environments.
 
 **Date/Time:** Thursday 07 February 2019 [12:30-13:30 ACDT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=EMBL-ABR+Snakemake+Webinar&iso=20190207T1230&p1=5&ah=1)
+
 **Registration Page:** https://attendee.gotowebinar.com/register/7076869548376639747
+
 **Presenter:** [Nathan Watson-Haigh](https://researchers.adelaide.edu.au/profile/nathan.watson-haigh)
+
 **Video Link(s):** TBA following the webinar
 
 # Data for the Webinar
