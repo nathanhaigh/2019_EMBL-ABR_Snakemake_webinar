@@ -70,7 +70,7 @@ ACCESSIONS=(
 )
 
 # Ensure the output dir is present
-mkdir -p reads
+mkdir -p raw_reads
 
 # For each accession:
 #  1) Extract the reads aligning to the specified region
@@ -80,7 +80,7 @@ for ACCESSION in "${ACCESSIONS[@]}"; do
   echo "Processing: ${ACCESSION}"
   samtools view -hu "http://crobiad.agwine.adelaide.edu.au/dawn/jbrowse-prod/data/local/by_chr/mapped_reads_merged/161010_Chinese_Spring_v1.0_pseudomolecules_parts.fasta.gz/minimap2_defaults/whole_genome/PE/BPA/chr4A_part2/${ACCESSION}.realigned.bam" "${COORD}" \
   | samtools collate -uO - \
-  | samtools fastq -F 0x900 -1 "reads/${ACCESSION}_R1.fastq.gz" -2 "reads/${ACCESSION}_R2.fastq.gz" -s /dev/null -0 /dev/null -
+  | samtools fastq -F 0x900 -1 "raw_reads/${ACCESSION}_R1.fastq.gz" -2 "raw_reads/${ACCESSION}_R2.fastq.gz" -s /dev/null -0 /dev/null -
 done
 ```
 
