@@ -16,8 +16,6 @@ This 1-hour webinar will take a look into Snakemake, cover the core concepts and
 
 # Data for the Webinar
 
-**See also:** [create_data_subset/README.md](create_data_subset/README.md)
-
 For the purpose of demonstrating a Snakemake workflow in reasonable time, we will be working on a subset of public WGS data from wheat. Specifically, we will be looking at data from a small (58Kbp) region on the long arm of chromosome 4A (chr4A_part2:235500000-235558000). This region contains 2 genes affected by a deletion which is present in some wheat accessions:
 
 ![alt text](img/chr4A_Wx-B1_Null_region.png  "chr4A_part2:235500000-235558000")
