@@ -12,7 +12,9 @@ This 1-hour webinar will take a look into Snakemake, cover the core concepts and
 
 **Presenter:** [Nathan Watson-Haigh](https://researchers.adelaide.edu.au/profile/nathan.watson-haigh)
 
-**Video Link(s):** TBA following the webinar
+**Presentation:** [PowerPoint Show](Snakemake-EMBL-ABR.ppsx)
+
+**Video Link(s):** [EMBL-ABR YouTube Channel](https://www.youtube.com/channel/UC5WlFNBSfmt3e8Js8o2fFqQ)
 
 # Data for the Webinar
 
