@@ -16,6 +16,10 @@ This 1-hour webinar will take a look into Snakemake, cover the core concepts and
 
 **Video Link(s):** [EMBL-ABR YouTube Channel](https://www.youtube.com/channel/UC5WlFNBSfmt3e8Js8o2fFqQ)
 
+[![Snakemake Webinar Video](http://img.youtube.com/vi/9HxTURMP_Uc/0.jpg)](http://www.youtube.com/watch?v=9HxTURMP_Uc)
+
+
+
 # Data for the Webinar
 
 For the purpose of demonstrating a Snakemake workflow in reasonable time, we will be working on a subset of public WGS data from wheat. Specifically, we will be looking at data from a small (58Kbp) region on the long arm of chromosome 4A (chr4A_part2:235500000-235558000). This region contains 2 genes affected by a deletion which is present in some wheat accessions:
