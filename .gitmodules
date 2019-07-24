@@ -1,0 +1,3 @@
+[submodule "snakemake-tutorial"]
+	path = snakemake-tutorial
+	url = https://github.com/UofABioinformaticsHub/snakemake-tutorial
